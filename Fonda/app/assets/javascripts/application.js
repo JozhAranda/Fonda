@@ -11,4 +11,8 @@
 // The available directives right now are require, require_directory, and require_tree
 //
 //= require jquery
+//= require jquery.form
+//= require jquery.validate
+//= require bootstrap
+//= require bootbox
 //= require_tree .
